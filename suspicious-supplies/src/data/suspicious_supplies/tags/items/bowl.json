@@ -1,0 +1,6 @@
+{
+    "values": [
+        { "required": false, "id": "minecraft:bowl" },
+        { "required": false, "id": "#taglib:food_in_a_bowl" }
+    ]
+}

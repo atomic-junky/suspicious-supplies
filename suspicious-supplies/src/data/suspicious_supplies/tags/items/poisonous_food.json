@@ -1,0 +1,9 @@
+{
+    "values": [
+        { "required": false, "id": "minecraft:suspicious_stew"},
+        { "required": false, "id": "minecraft:ominous_bottle" },
+        { "required": false, "id": "#taglib:bad_food" },
+        { "required": false, "id": "#taglib:illegal_items" },
+        { "required": false, "id": "#taglib:skulls" }
+    ]
+}

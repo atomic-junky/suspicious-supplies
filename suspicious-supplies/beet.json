@@ -1,0 +1,20 @@
+{
+  "version": "0.1.0",
+  "author": "Atomic Junky",
+  "output": "build",
+  "data_pack": {
+    "name": "Suspicious_Supplies_-_Data_Pack",
+    "pack_format": 41,
+    "supported_formats": {"min_inclusive": 39, "max_inclusive": 41},
+    "load": ["src"]
+  },
+  "resource_pack": {
+    "name": "Suspicious_Supplies_-_Resource_Pack",
+    "pack_format": 32,
+    "load": ["src"]
+  },
+  "pipeline": [
+    "main.build_recipes",
+    "main.build_resource_pack"
+  ]
+}

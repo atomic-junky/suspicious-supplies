@@ -1,0 +1,18 @@
+{
+    "#suspicious_supplies:healthy_food": {
+        "eatable": 1.0,
+        "poisonous": 0.0
+    },
+    "#suspicious_supplies:poisonous_food": {
+        "eatable": 1.0,
+        "poisonous": 1.0
+    },
+    "#suspicious_supplies:not_even_a_bit_of_food": {
+        "eatable": 0.0,
+        "poisonous": 0.1
+    },
+    "#suspicious_supplies:weird_food": {
+        "eatable": 0.55,
+        "poisonous": 0.75
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "values": [
+        "minecraft:ender_pearl",
+        "minecraft:ender_eye",
+        "minecraft:spider_eye",
+        "minecraft:fermented_spider_eye",
+        "minecraft:magma_cream",
+        "minecraft:dragon_breath",
+        "minecraft:ghast_tear",
+        "minecraft:nether_wart",
+        "minecraft:blaze_rod",
+        "minecraft:breeze_rod",
+        "minecraft:slime_ball",
+        "minecraft:clay_ball",
+        "minecraft:tropical_fish",
+        { "required": false, "id": "#minecraft:skulls" },
+        { "required": false, "id": "#taglib:nether_natural" }
+    ]
+}
