@@ -3,7 +3,7 @@
 Tasty Supplies is a datapack that add a lot of new foods, recipes and even cooking mechanics in Minecraft by remaining Vanilla.
 You'll be able to prepare a wide variety of delicious dishes from cookies to salad and pies.
 
-***To work properly, this datapack also need [Taglib](https://github.com/atomic-junky/Taglib)***
+***To work properly, this datapack also need [Taglib](https://github.com/HeDeAnTheonlyone/Taglib)***
 
 
 ## Features
